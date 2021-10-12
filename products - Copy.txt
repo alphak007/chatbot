@@ -1,0 +1,26 @@
+{
+        "shirt":
+        {
+                "id":"1234",
+                "price":"500",
+                "order_date":"12/08/2021",
+	"payment_mode":"phonepe",
+	"status":"Delivered"
+        },
+      "jeans":
+        {
+                "id":"4594",
+                "price":"1400",
+                "order_date":"16/09/2021",
+	"payment_mode":"Amazonpay",
+	"status":"On its way"
+        },
+      "phone":
+        {
+                "id":"1676",
+                "price":"15000",
+                "order_date":"29/09/2021",
+	"payment_mode":"cod",
+	"status":"Order shipped"
+        }
+}
