@@ -1,0 +1,45 @@
+{
+        "1234":
+        {
+                "name":"shirt",
+                "price":"500",
+                "order_date":"12/08/2021",
+	"payment_mode":"phonepe",
+	"status":"Item Delivered"
+        },
+      "2563":
+        {
+	"name":"jeans",
+                "price":"1400",
+                "order_date":"16/09/2021",
+	"payment_mode":"Amazonpay",
+	"status":"On its way"
+        },
+      "3283":
+        {
+                "name":"phone",
+                "price":"15000",
+                "order_date":"29/09/2021",
+	"payment_mode":"cod",
+	"status":"On its way"
+        },
+        "9243":
+        {
+                "name":"earphones",
+                "price":"5000",
+                "order_date":"02/10/2021",
+	"payment_mode":"cod",
+	"status":"Order shipped"
+        },
+        "3201":
+        {
+                "name":"book",
+                "price":"600",
+                "order_date":"05/10/2021",
+	"payment_mode":"amazonpay",
+	"status":"Order shipped"
+        }
+
+
+
+}
