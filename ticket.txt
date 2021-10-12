@@ -1,0 +1,5 @@
+ticket_no,order_id,complaint,reason for return/replace,comment,pickup_address
+110,1234,delayed
+163,2563,replace,Damaged product,damaged item received,y
+154,3283,return,Item no longer required,item received late,manipur
+187,3201,return,Used product delivered,product was already used,y
